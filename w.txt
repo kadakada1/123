@@ -1,1 +1,5 @@
 1
+<<<<<<< HEAD
+=======
+asdadasd
+>>>>>>> de8adbb (Create w.txt)
